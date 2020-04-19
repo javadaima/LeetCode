@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.util.LinkedList;
 
-public class demo1 {
+public class Demo2 {
 
 
     /*
@@ -74,5 +74,6 @@ public class demo1 {
       ListNode next;
       ListNode(int x) { val = x; }
     }
+
 
 }
