@@ -2,6 +2,7 @@ package thread;
 
 import com.alibaba.fastjson.JSON;
 import javase.User;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -165,4 +166,5 @@ public class Thread1 extends Thread{
             return Thread.currentThread().getName()+" callable index="+i +",sleep="+r;
         }
     }
+
 }
